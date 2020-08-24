@@ -10,6 +10,9 @@ build
 bin
 .settings
 
+# idea
+.idea
+
 # some test mod ids for testing
 modid
 test_mod
